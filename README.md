@@ -1,1 +1,1 @@
-# Cube Root
+# Integer Cube Root in Verilog
