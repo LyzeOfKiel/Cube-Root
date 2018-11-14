@@ -133,3 +133,4 @@ module bcd_convert
   assign o_DV  = r_DV;
 	  
 endmodule // Binary_to_BCD
+//https://www.nandland.com/vhdl/modules/double-dabble.html
